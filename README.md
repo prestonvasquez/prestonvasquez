@@ -2,5 +2,5 @@
 
 I'm a software engineer at [MongoDB](https://www.mongodb.com/) working on the [Go Driver](https://github.com/mongodb/mongo-go-driver).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestonvasquez&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prestonvasquez&theme=dark&show=reviews,prs_merged,prs_merged_percentage)
 
